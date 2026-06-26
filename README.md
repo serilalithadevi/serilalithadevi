@@ -101,7 +101,7 @@ Data cleaning, SQL querying, exploratory analysis, and business reporting.
 
 ---
 
-⭐ *"Data tells a story. My goal is to uncover it and transform it into meaningful business decisions."*
+ *"Data tells a story. My goal is to uncover it and transform it into meaningful business decisions."*
 <!--
 **serilalithadevi/serilalithadevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
